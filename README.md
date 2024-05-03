@@ -1,5 +1,5 @@
 # Intro
-This FreeCad Model to create fully parametric parts to build gates for inddor whoop flying.
+This FreeCAD Model to create fully parametric parts to build gates for indoor whoop flying.
 
 Currently it's heavily work in progress. 
 
@@ -15,3 +15,6 @@ The gates are designed to be lit with LED strips, addressable or not. WLED as a 
 ## Prototypes
 Here's an image of the first gate I'm building:
 ![gate](images/prototype.jpg)
+
+And this is the CAD assembly:
+![assembly](images/hexagon_300mm.png)
