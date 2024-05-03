@@ -14,4 +14,4 @@ The gates are designed to be lit with LED strips, addressable or not. WLED as a 
 
 ## Prototypes
 Here's an image of the first gate I'm building:
-![gate](images/prototype.png)
+![gate](images/prototype.jpg)
